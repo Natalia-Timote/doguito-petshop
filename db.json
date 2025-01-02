@@ -1,0 +1,19 @@
+{
+  "profile": [
+    {
+      "id": "5d60",
+      "nome": "Novo Cliente",
+      "email": "novocliente@email.com"
+    },
+    {
+      "nome": "Cliente da Doguito",
+      "email": "clientedadoguito@email.com",
+      "id": "7347"
+    },
+    {
+      "id": "a851",
+      "nome": "ff",
+      "email": "ff"
+    }
+  ]
+}
