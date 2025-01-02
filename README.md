@@ -19,7 +19,7 @@ O foco foi criar uma aplicação prática para gerenciamento de clientes em um p
 * Criar um **CRUD** utilizando o método **fetch** e os verbos **HTTP**;
 * Aprender a **consumir dados de uma API** e exibir no seu front-end;
 * Entender como utilizar o método **fetch** para consumir dados de uma API;
-* Manipular os verbos **HTTP(GET, POST, PUT, DELETE)** através do método fetch;
+* Manipular os verbos **HTTP (GET, POST, PUT, DELETE)** através do método fetch;
 * Aprender como funcionam as **promises** no JavaScript.
 
 ## 🛠️ Tecnologias aprofundadas durante o curso
